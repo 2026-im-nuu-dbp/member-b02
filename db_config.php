@@ -2,7 +2,7 @@
 // Database configuration
 
 $host = 'localhost';
-$db = 'test_db';
+$db = 'tewst_db';
 $user = 'root';
 $password = '';
 $charset = 'utf8mb4';
